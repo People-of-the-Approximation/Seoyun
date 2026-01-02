@@ -15,3 +15,5 @@
 *.xpr
 *.pdf
 *.srcs
+just
+01_BRAM.sv
